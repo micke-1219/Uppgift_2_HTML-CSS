@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+h1 span {
+    font-family: 'Handlee', cursive;
+    color: #20bcd5;
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+}
+
+.section {
+    background-color: #fafafa;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
